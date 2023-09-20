@@ -7,7 +7,7 @@
 
 The "Philosophers" project is designed to introduce the basics of threading a process.
 
-For more projects related to 42cursus, please visit the hive-42cursus repository.
+For more projects related to 42cursus, please visit the [hive-42cursus](https://github.com/wengcychan/hive-42cursus.git) repository.
 
 ## Introduction
 
