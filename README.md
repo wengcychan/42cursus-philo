@@ -13,7 +13,7 @@ For more projects related to 42cursus, please visit the [hive-42cursus](https://
 
 The main goal is to implement the "Dining Philosophers" problem by leveraging concurrent programming and managing multiple threads.
 
-<img src="./images/philo.gif" alt="Philo Program" width="80%">
+![Philo Program](./images/philo.gif)
 
 ## Usage
 
